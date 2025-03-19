@@ -51,6 +51,17 @@ footer {
     height: 100px;
     width: 100px;
 }
+button:hover{
+    background-color: #333;
+    color: azure;
+    transition: 0.7s;
+    cursor: pointer;
+}
+.h1{
+    color: chartreuse;
+}
+    
+
 
 
 
